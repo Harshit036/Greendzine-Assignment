@@ -1,0 +1,32 @@
+.photoModel {
+  width: 50%;
+  margin: 2rem auto;
+}
+
+.imageContainer {
+  width: 100%;
+  padding: 1rem 0.5rem;
+  border: 3px solid black;
+  border-radius: 1rem;
+}
+
+.imageMainBox {
+  width: 100%;
+  margin: auto;
+}
+
+.imageBox {
+  width: 80%;
+  margin: auto;
+}
+
+.imageBox img {
+  width: 100%;
+  border-radius: 1rem;
+}
+
+.userName {
+  margin: 0.5rem auto;
+  font-size: 2rem;
+  text-align: center;
+}

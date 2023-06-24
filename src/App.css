@@ -1,0 +1,25 @@
+.mainContainer {
+  width: 50%;
+  margin: auto;
+}
+
+.photoList {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+}
+
+.searchBox {
+  width: 80%;
+  margin: 2rem auto;
+  border-color: grey;
+}
+
+.searchField {
+  width: 100%;
+  padding: 0.5rem;
+  height: 2rem;
+  color: grey;
+}
